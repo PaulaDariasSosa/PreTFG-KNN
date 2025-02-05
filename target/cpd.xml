@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd xmlns="https://pmd-code.org/schema/cpd-report"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         pmdVersion="7.3.0"
+         timestamp="2025-02-04T20:25:50.8461896Z"
+         version="1.0.0"
+         xsi:schemaLocation="https://pmd-code.org/schema/cpd-report https://pmd.github.io/schema/cpd-report_1_0_0.xsd">
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\Practica5.java"
+         totalNumberOfTokens="2754"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\clasificacion\KNN.java"
+         totalNumberOfTokens="742"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\datos\Atributo.java"
+         totalNumberOfTokens="137"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\datos\Cualitativo.java"
+         totalNumberOfTokens="470"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\datos\Cuantitativo.java"
+         totalNumberOfTokens="565"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\datos\Dataset.java"
+         totalNumberOfTokens="1443"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\datos\Instancia.java"
+         totalNumberOfTokens="497"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\entrenamiento\Entrenamiento.java"
+         totalNumberOfTokens="888"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\procesamiento\DatosCrudos.java"
+         totalNumberOfTokens="25"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\procesamiento\Estandarizacion.java"
+         totalNumberOfTokens="102"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\procesamiento\Normalizacion.java"
+         totalNumberOfTokens="123"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\procesamiento\Preprocesado.java"
+         totalNumberOfTokens="15"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\vectores\Matriz.java"
+         totalNumberOfTokens="1132"/>
+   <file path="C:\Users\pmdso\OneDrive\Practicas\proyecto-preTFG\PreTFG-KNN\src\main\java\es\ull\vectores\Vector.java"
+         totalNumberOfTokens="1211"/>
+</pmd-cpd>

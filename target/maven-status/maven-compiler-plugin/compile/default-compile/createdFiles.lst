@@ -1,0 +1,14 @@
+datos\Cualitativo.class
+procesamiento\DatosCrudos.class
+vectores\Vector.class
+datos\Atributo.class
+datos\Cuantitativo.class
+clasificacion\KNN.class
+entrenamiento\Entrenamiento.class
+Practica5.class
+datos\Dataset.class
+procesamiento\Normalizacion.class
+datos\Instancia.class
+vectores\Matriz.class
+procesamiento\Preprocesado.class
+procesamiento\Estandarizacion.class
