@@ -5,8 +5,8 @@ datos\Atributo.class
 datos\Cuantitativo.class
 clasificacion\KNN.class
 entrenamiento\Entrenamiento.class
-Practica5.class
 datos\Dataset.class
+KNN_TFG.class
 procesamiento\Normalizacion.class
 datos\Instancia.class
 vectores\Matriz.class

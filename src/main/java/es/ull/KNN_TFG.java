@@ -10,10 +10,10 @@ import datos.*;
 import procesamiento.*;
 import entrenamiento.*;
 
-public class Practica5 {
+public class KNN_TFG {
 
 	public static void main(String[] args) throws IOException {
-		String ruta = "C:\\\\\\\\Users\\\\\\\\pmdso\\\\\\\\eclipse-workspace\\\\\\\\Modelado - P5\\\\\\\\";
+		String ruta = "";
 		boolean salida = false;
 		Dataset datosCrudos = new Dataset();
 		Dataset datos = new Dataset();
